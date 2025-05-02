@@ -7,4 +7,4 @@
 ## How to Run
 1. Clone this repo
 2. Create and activate virtualenv
-3. Run: `streamlit run app.py
+3. Run: `streamlit run feature.py
